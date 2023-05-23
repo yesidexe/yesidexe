@@ -1,11 +1,4 @@
  
-#Hi there, This is Yesid 👋
+# Hi there 👋
     
-## Herramientas que uso
-- HTML / CSS
-- JavaScript
-- React
-- NextJS
-- TailwindCSS
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesidexe&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesidexe&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
