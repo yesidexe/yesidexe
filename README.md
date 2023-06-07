@@ -3,7 +3,7 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesidexe&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
-## **Últimos proyectos**
+## **Mis últimos proyectos**
 
 - [Triki](https://github.com/yesidexe/Triki)
 - [E-Commerce Platzi](https://github.com/yesidexe/E-Commerce-platzi)
