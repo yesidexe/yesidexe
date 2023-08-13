@@ -5,6 +5,7 @@
 
 ## **Mis últimos proyectos**
 
+- [Portafolio-v1](https://github.com/yesidexe/portafolio-v1)
 - [Entertainment-web-app](https://github.com/yesidexe/Entertainment-web-app)
 - [Triki](https://github.com/yesidexe/Triki)
 - [E-Commerce Platzi](https://github.com/yesidexe/E-Commerce-platzi)
