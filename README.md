@@ -14,6 +14,6 @@ Yesid</a></h1>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nextjs,redux,astro,postgres,py" />
+    <img src="https://skillicons.dev/icons?i=git,github,bash,docker,fastapi,postgres,py" />
   </a>
 </p>
