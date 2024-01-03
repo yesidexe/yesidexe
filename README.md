@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">
 Yesid</a></h1>
-<h3 align="center">A passionate Web developer from Colombia</h3>
+<h3 align="center">Un apasionado por los datos</h3>
     
 <p align="center">
 <a href="https://github.com/yesidexe">
@@ -10,7 +10,7 @@ Yesid</a></h1>
 </p>
 
 <div align="center">
-    <h2 style="display: inline-block">Technologies That I Know</h2>
+    <h2 style="display: inline-block">Técnologias que utilizo</h2>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
