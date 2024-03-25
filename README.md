@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">Yesid</a></h1>
-<h3 align="left">Estudiande de ciencia de datos, actualmente enfocado en Machine learning👨‍💻</h3>
+<h3 align="left">Estudiante de ciencia de datos, actualmente enfocado en Machine learning👨‍💻</h3>
 
 <div align="left">
 <a href="https://github.com/yesidexe">
