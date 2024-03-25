@@ -11,11 +11,12 @@
 <div align="center">
     <h2 style="display: inline-block">Técnologias que utilizo</h2>
 </div>
+
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Golang" />
+        <img src="./img/scikitlearn-svgrepo-com.svg" alt="Golang" />
       </a>
       <br>Go
     </td>
