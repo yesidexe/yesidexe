@@ -12,53 +12,59 @@
     <h2 style="display: inline-block">Técnologias que utilizo</h2>
 </div>
 
-<table>
+<table style="border: none">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="./img/scikitlearn-svgrepo-com.svg" alt="Golang" />
+        <img src="./img/1-python-127-svgrepo-com.svg" width="48" height="48" alt="python"/>
       </a>
-      <br>Go
+      <br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/2-linux-svgrepo-com.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="img/3-git-svgrepo-com.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Jsonnet
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="img/4-bash-icon-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="img/5-scikitlearn-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96" style="border: none"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="img/6-postgresql-svgrepo-com.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="img/7-pytorch-svgrepo-com.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="img/8-fastapi-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96" style="border: none">
+      <a href="#macropower-tech" >
+        <img src="img/9-docker-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
