@@ -18,55 +18,55 @@
       <a href="#macropower-tech">
         <img src="./img/1-python-127-svgrepo-com.svg" width="48" height="48" alt="python"/>
       </a>
-      <br>
+      <br>Python
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
         <img src="./img/2-linux-svgrepo-com.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>
+      <br>Linux
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
         <img src="img/3-git-svgrepo-com.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>Git
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
         <img src="img/4-bash-icon-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Bash
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
         <img src="img/5-scikitlearn-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>Kubernetes
+      <br>Sklearn
     </td>
     <td align="center" width="96" style="border: none"> 
       <a href="#macropower-tech" >
         <img src="img/6-postgresql-svgrepo-com.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Docker
+      <br>Postgresql
     </td>
     <td align="center"  width="96" style="border: none">
       <a href="#macropower-tech">
         <img src="img/7-pytorch-svgrepo-com.svg" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
+      <br>Pytorch
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
         <img src="img/8-fastapi-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>Fastapi
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
         <img src="img/9-docker-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>Docker
     </td>
   </tr>
 </table>
