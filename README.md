@@ -78,7 +78,7 @@
 </table>
 
 <a href="https://www.kaggle.com/yesidjurardo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://www.hackerrank.com/profile/davidjuradoyt1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hacker Rank"></a>
+<a href="https://www.hackerrank.com/profile/yesidexe" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hacker Rank"></a>
 <a href="https://leetcode.com/yesidexe/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"></a>
 <a href="https://www.linkedin.com/in/yesid-jurado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
