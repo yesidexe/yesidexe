@@ -50,19 +50,22 @@
       </a>
       <br>Postgresql
     </td>
+    <!--
     <td align="center"  width="96" style="border: none">
       <a href="#macropower-tech">
         <img src="img/7-pytorch-svgrepo-com.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Pytorch
-    </td> 
+    </td>
+    -->
+    <!--
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
         <img src="img/8-fastapi-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Fastapi
     </td>
-
+     --> 
     <!--
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
