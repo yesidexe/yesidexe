@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="96" style="border: none"> 
       <a href="#macropower-tech" >
-        <img src="img/6-postgresql-svgrepo-com.svg" width="48" height="48" alt="Docker" />
+        <img src="img/18-postgresql-svgrepo-com.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Postgresql
     </td>
@@ -82,7 +82,7 @@
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
-        <img src="img/17-powerbi-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="img/19-powerbi-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Power BI
     </td>
