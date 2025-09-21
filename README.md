@@ -76,13 +76,13 @@
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
-        <img src="img/5-scikitlearn-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="img/16-gcp-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>GCP
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
-        <img src="img/5-scikitlearn-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="img/17-powerbi-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Power BI
     </td>
