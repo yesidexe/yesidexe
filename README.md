@@ -16,13 +16,13 @@
   <tr>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="./img/1-python-127-svgrepo-com.svg" width="48" height="48" alt="python"/>
+        <img src="./img/12-python-svgrepo-com.svg" width="48" height="48" alt="python"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="./img/2-linux-svgrepo-com.svg" width="48" height="48" alt="Python" />
+        <img src="./img/14-linux-svgrepo-com.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Linux
     </td>
@@ -34,15 +34,9 @@
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="img/4-bash-icon-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
+        <img src="img/13-bash-icon-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Bash
-    </td>
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech" >
-        <img src="img/5-scikitlearn-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Sklearn
     </td>
     <td align="center" width="96" style="border: none"> 
       <a href="#macropower-tech" >
@@ -76,10 +70,22 @@
     -->       
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech" >
-        <img src="img/10-tensorflow-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
+        <img src="img/15-tensorflow-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>TensorFlow
-    </td>     
+    </td>
+    <td align="center" width="96" style="border: none">
+      <a href="#macropower-tech" >
+        <img src="img/5-scikitlearn-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="96" style="border: none">
+      <a href="#macropower-tech" >
+        <img src="img/5-scikitlearn-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Power BI
+    </td>
   </tr>
 </table>
 
