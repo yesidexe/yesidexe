@@ -28,7 +28,7 @@
     </td>
     <td align="center" width="96" style="border: none">
       <a href="#macropower-tech">
-        <img src="img/3-git-svgrepo-com.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="img/11-git-svgrepo-com.svg" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>Git
     </td>
