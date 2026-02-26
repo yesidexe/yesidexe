@@ -1,96 +1,15 @@
-[<h1 align="center">Hi 👋, I'm <a href="#" target="blank">Yesid</a></h1>
-<h3 align="left">Estudiante de IA, actualmente enfocado en Data Engineering por trabajo, pero apasionado por el Machine Learning y Deep Learning👨‍💻</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yesid
+==============================================================================================================================
 
-<div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25B326&width=435&lines=In+coding+trouble%3F+Better+call+Yesid!!" alt="Typing SVG" /></a>
-</div>
+Data Engineer & AI Enthusiast
+-----------------------------
 
-<div align="center">
-    <h2 style="display: inline-block">Técnologias que utilizo</h2>
-</div>
+Currently working on architecting corporate data pipelines, and optimizing SQL workflows.
 
-<table style="border: none">
-  <tr>
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech">
-        <img src="./img/12-python-svgrepo-com.svg" width="48" height="48" alt="python"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech">
-        <img src="./img/14-linux-svgrepo-com.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech">
-        <img src="img/11-git-svgrepo-com.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech">
-        <img src="img/13-bash-icon-svgrepo-com.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96" style="border: none"> 
-      <a href="#macropower-tech" >
-        <img src="img/18-postgresql-svgrepo-com.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Postgresql
-    </td>
-    <!--
-    <td align="center"  width="96" style="border: none">
-      <a href="#macropower-tech">
-        <img src="img/7-pytorch-svgrepo-com.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Pytorch
-    </td>
-    -->
-    <!--
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech" >
-        <img src="img/8-fastapi-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Fastapi
-    </td>
-     --> 
-    <!--
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech" >
-        <img src="img/9-docker-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Docker
-    </td>
-    -->       
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech" >
-        <img src="img/15-tensorflow-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech" >
-        <img src="img/16-gcp-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>GCP
-    </td>
-    <td align="center" width="96" style="border: none">
-      <a href="#macropower-tech" >
-        <img src="img/19-powerbi-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Power BI
-    </td>
-  </tr>
-</table>
+* 🌍  I'm based in Colombia
+* 🧠  I'm currently learning Cybersecurity, data engineering, and AI
+* 💬  Ask me about I'm secretly Batman... but dont´t tell anyone
 
-<a href="https://www.kaggle.com/yesidjurardo" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
-<a href="https://www.hackerrank.com/profile/yesidexe" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hacker Rank"></a>
-<a href="https://leetcode.com/yesidexe/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"></a>
-<a href="https://www.linkedin.com/in/yesid-jurado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-
-
-](https://github.com/yesidexe)
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+</p>
