@@ -2,10 +2,7 @@
 <h3 align="left">Estudiante de IA, actualmente enfocado en Data Engineering por trabajo, pero apasionado por el Machine Learning y Deep Learning👨‍💻</h3>
 
 <div align="left">
-<a href="https://github.com/yesidexe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yesidexe&show_icons=true&cache_seconds=86400&theme=noctis_minimus&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesidexe&layout=compact&langs_count=8&theme=noctis_minimus"/>    
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25B326&width=435&lines=In+coding+trouble%3F+Better+call+Yesid!!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
