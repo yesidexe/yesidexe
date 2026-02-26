@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="#" target="blank">Yesid</a></h1>
+[<h1 align="center">Hi 👋, I'm <a href="#" target="blank">Yesid</a></h1>
 <h3 align="left">Estudiante de IA, actualmente enfocado en Data Engineering por trabajo, pero apasionado por el Machine Learning y Deep Learning👨‍💻</h3>
 
 <div align="left">
@@ -93,3 +93,4 @@
 
 
 
+](https://github.com/yesidexe)
