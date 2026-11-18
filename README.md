@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Yesid+Jurado+%E2%80%94+Data+%26+Analytics+Engineer;ETL%2FELT+Pipelines+%E2%80%A2+Cloud+Architecture+%E2%80%A2+SQL+%26+Python;Building+reliable+data+flows+on+GCP+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   </a>
 
-  <!-- Badges de contacto discretos -->
+  <!-- Contact badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/yesid-jurado/">
       <img src="https://img.shields.io/badge/LinkedIn-Yesid-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
@@ -41,15 +41,15 @@ radar_2026:
 
 ---
 
-### 🧰 Stack técnico
+### 🧰 Tech Stack
 
 <div align="center">
-  <!-- Stack principal -->
+  <!-- Main stack -->
   <p>
-    <img src="https://skillicons.dev/icons?i=py,gcp,postgres,mysql,docker,linux,git,github&theme=dark" alt="Stack técnico" />
+    <img src="https://skillicons.dev/icons?i=py,gcp,postgres,mysql,docker,linux,git,github&theme=dark" alt="Tech Stack" />
   </p>
 
-  <!-- Servicios de datos & BI -->
+  <!-- Data & BI services -->
   <p>
     <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
     <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run" />
@@ -57,22 +57,4 @@ radar_2026:
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
     <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker" />
   </p>
-</div>
-
----
-
-### 🔄 Flujo habitual de trabajo
-
-```mermaid
-flowchart LR
-    A["🌐 APIs & DBs"] -->|"Python + Docker"| B["☁️ Cloud Run / Storage"]
-    B -->|"Raw Data"| C[("🏛️ BigQuery")]
-    C -->|"Dataform / dbt"| D{"⭐ Star Schema"}
-    D -->|"Serving"| E["📊 Power BI / Looker / ML"]
-```
-
----
-
-<div align="center">
-  <sub>⚡ <i>"Raw data is just noise until it's modeled, tested, and served."</i></sub>
 </div>
