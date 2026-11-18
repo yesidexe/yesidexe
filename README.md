@@ -56,7 +56,7 @@ radar_2026:
   </p>
 </div>
 
-<!--
+<!---->
 Featured Projects: uncomment this block when you have projects to show.
 
 ---
@@ -66,4 +66,3 @@ Featured Projects: uncomment this block when you have projects to show.
 - **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `BigQuery` · `Dataform`
 - **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `Cloud Run` · `Power BI`
 - **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `dbt` · `Looker`
--->
