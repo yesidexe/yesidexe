@@ -1,0 +1,3 @@
+Yesid Jurado — Data & Analytics Engineer
+ETL/ELT Pipelines • Cloud Architecture • SQL & Python
+Building reliable data flows on GCP ☁️

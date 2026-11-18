@@ -1,9 +1,10 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
+  <!-- HEADER:START -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Yesid+Jurado+%E2%80%94+Data+%26+Analytics+Engineer;ETL%2FELT+Pipelines+%E2%80%A2+Cloud+Architecture+%E2%80%A2+SQL+%26+Python;Building+reliable+data+flows+on+GCP+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="img/header.svg" alt="Yesid Jurado — Data &amp; Analytics Engineer" />
   </a>
+  <!-- HEADER:END -->
 
   <!-- Contact badges -->
   <p align="center">
@@ -56,8 +57,7 @@ radar_2026:
   </p>
 </div>
 
-<!---->
-Featured Projects: uncomment this block when you have projects to show.
+<!--
 
 ---
 
@@ -66,3 +66,4 @@ Featured Projects: uncomment this block when you have projects to show.
 - **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `BigQuery` · `Dataform`
 - **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `Cloud Run` · `Power BI`
 - **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `dbt` · `Looker`
+-->

@@ -1,2 +1,6 @@
 # Documentos personales (CV, etc.)
 /ignore/
+
+# Python cache
+__pycache__/
+*.pyc
