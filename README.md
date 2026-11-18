@@ -10,9 +10,6 @@
     <a href="https://www.linkedin.com/in/yesid-jurado/">
       <img src="https://img.shields.io/badge/LinkedIn-Yesid-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/yesidexe">
-      <img src="https://img.shields.io/badge/GitHub-yesidexe-1f2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
     <img src="https://img.shields.io/badge/Location-Colombia_%F0%9F%87%A8%F0%9F%87%B4-1f2937?style=flat-square" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Open_to_Work-1f2937?style=flat-square&logo=statuspage&logoColor=10B981" alt="Status" />
   </p>
@@ -58,3 +55,15 @@ radar_2026:
     <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker" />
   </p>
 </div>
+
+<!--
+Featured Projects: uncomment this block when you have projects to show.
+
+---
+
+### 🚀 Featured Projects
+
+- **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `BigQuery` · `Dataform`
+- **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `Cloud Run` · `Power BI`
+- **[Project Name](https://github.com/yesidexe/project-name)** — Short description: what it does and the result it delivers. `Python` · `dbt` · `Looker`
+-->
